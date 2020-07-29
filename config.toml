@@ -7,7 +7,7 @@ summaryLength = "10"
 paginate = 6
 disqusShortname = ""
 canonifyurls = true
-
+disableKinds = ["taxonomy", "taxonomyTerm"]
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 

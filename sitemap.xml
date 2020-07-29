@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//goodluckbrother.nctu.me/</loc>
+    <lastmod>2020-07-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//goodluckbrother.nctu.me/about/</loc>
     <lastmod>2020-07-29T13:49:23+06:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>//goodluckbrother.nctu.me/blog/post-1/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//goodluckbrother.nctu.me/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   

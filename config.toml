@@ -82,13 +82,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "王榆賀"
+description = "技術宅Tech"
+author = "榆賀"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "+886-988-324-612"
-email = "demo@email.com"
+email = "nfo@goodluckbrother.nctu.me"
 location = "Taiwan"
 # copyright
 copyright = "| copyright &copy; 2020 [AndyTech All Rights Reserved |"

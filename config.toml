@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "技術宅Tech"
+description = "meta description"
 author = "榆賀"
 # Google Analitycs
 googleAnalitycsID = "Your ID"

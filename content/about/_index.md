@@ -7,7 +7,7 @@ draft: false
 image: "images/author.jpg"
 
 # meta description
-description: "this is meta description"
+description: "榆賀發展史"
 
 # type
 type : "about"

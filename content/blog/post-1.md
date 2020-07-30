@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "MarkDown Blog 教學手冊"
 
 # taxonomies
 categories: 
